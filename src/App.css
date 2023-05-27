@@ -1,0 +1,16 @@
+@import url("http://getbootstrap.com/dist/css/bootstrap.css");
+.rel {
+  position: relative;
+  height: 300px;
+  width: 600px;
+}
+.read-more {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.background {
+  background-image: url("http://placehold.it/600x300");
+  height: 300px;
+  width: 600px;
+}
